@@ -39,4 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshwanthkartitr&" alt="eshwanthkartitr" /></p>
 
-<p><img align="center" src="https://leetcode-badge.chyroc.cn/?name=eshwanthkartitr&refresh=true" alt="LeetCode Badge" /></p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/eshwanth01)](https://leetcode.com/eshwanth01)
+
