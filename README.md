@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshwanthkartitr&show_icons=true&locale=en" alt="eshwanthkartitr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshwanthkartitr&" alt="eshwanthkartitr" /></p>
+
+<p><img align="center" src="https://leetcode-badge.chyroc.cn/?name=eshwanthkartitr&refresh=true" alt="LeetCode Badge" /></p>
