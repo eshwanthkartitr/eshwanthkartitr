@@ -11,26 +11,23 @@ Overall Training Progress: [████████████▒░░░░�
 ```
 
 📅  Year 1: Getting Started 
--  Status:  Loss - Not bad 📉
--  Summary:  Getting the hang of things, building the foundation.
-
 ```
+![image](https://github.com/user-attachments/assets/36d82932-7d5b-422d-8bcf-34476457709d)
+
 Progress: [█████████████████████] 100%
 ```
-
-📅  Year 2: The Plot Thickens 
--  Status:  Questionable 🤔
--  Summary:  Pondering deep thoughts, questioning everything.
-
+📅  Year 2: Getting shit together
 ```
+![image](https://github.com/user-attachments/assets/7b3e11e5-6e21-43a8-afd8-724bfe6a8c73)
+
 Progress: [█████████████████████] 100%
 ```
 
 📅  Year 3: Midway Through the Challenge 
--  Status:  Upping the difficulty 📈
--  Summary:  Taking on tougher challenges, halfway there!
-
 ```
+
+![image](https://github.com/user-attachments/assets/8c83d289-1454-4a4c-ae47-34ab7d2759f3)
+
 Progress: [████████████▒░░░░░░░░░░░] 50%
 ```
 
