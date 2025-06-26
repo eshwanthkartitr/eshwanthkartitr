@@ -23,17 +23,17 @@ Progress: [█████████████████████] 100%
 Progress: [█████████████████████] 100%
 ```
 
-📅  Year 3: Midway Through the Challenge 
+📅  Year 3: Completed peacefully 
 ```
 
-![image](https://github.com/user-attachments/assets/8c83d289-1454-4a4c-ae47-34ab7d2759f3)
+![Alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpqY2kyYnh4NmZlbncydjd4NTl2N2xnNmMwNDFrb203Z3Q2eTlsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif)
 
-Progress: [████████████▒░░░░░░░░░░░] 50%
+Progress: [█████████████████████] 100%
 ```
 
-🚀  Year 4: To Be Continued... 
+ Year 4: To Be Continued... 
 -  Status:  Loading... ⏳
--  Summary:  Awaiting the next big breakthrough!
+-  Summary:  Unnum enna enna sei kathu irrukano
 
 ```
 Training Progress: [░░░░░░░░░░░░░░░░░░░░] 0% Complete
