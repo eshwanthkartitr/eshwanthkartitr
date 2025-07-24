@@ -1,5 +1,7 @@
 # Wasup 
 
+![image](https://drive.google.com/file/d/1zBkxGE8es5eE1K6HM7Myt5wOsZXCs9bh/view?usp=drive_link)
+
 ```python
 for year in range(4):
     knowledge.train()
