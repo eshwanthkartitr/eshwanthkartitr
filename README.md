@@ -12,18 +12,7 @@
 💡 **Philosophy**: Learning never stops, growth never ends  
 🌱 **Status**: Always evolving, always improving  
 
----
 
-## 📊 Training Stats
-
-| Metric | Value | Progress |
-|--------|-------|----------|
-| 🎓 **Years Completed** | 3/4 | ![75%](https://progress-bar.dev/75) |
-| 🧠 **Knowledge Base** | Expanding | ![65%](https://progress-bar.dev/65) |
-| 💪 **Skill Level** | Intermediate+ | ![70%](https://progress-bar.dev/70) |
-| 🔥 **Motivation** | Maximum | ![100%](https://progress-bar.dev/100) |
-
----
 
 ## 🎯 Learning Timeline
 
@@ -52,7 +41,7 @@
 ```
 🔸 Status: 🔄 In Progress
 🔸 Focus: Advanced concepts & real-world applications
-🔸 Progress: ░░░░░░░░░░░░░░░░░░░░ 0%
+🔸 Progress:  0%
 ```
 
 ---
