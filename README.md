@@ -65,25 +65,9 @@ class Developer:
 
 ---
 
-## 🎯 Future Goals
+## 🎯 Goals
 
-<div align="center">
-
-### 🚀 Loading Next Chapter...
-
-```
-▓▓▓▓▓▓▓░░░░░░░░░░░░ 35%
-```
-
-**🔮 What's Coming:**
-- 🏗️ Advanced project development
-- 🤝 Open source contributions  
-- 🌐 Full-stack mastery
-- 🎨 UI/UX excellence
-
-*"The best way to predict the future is to create it."*
-
-</div>
+Learn -> Contribute -> Repeat 
 
 ---
 
