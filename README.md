@@ -1,41 +1,107 @@
-# Wasup 
+# 👋 Hello, I'm Eshwanth!
 
-[![image](https://drive.google.com/uc?export=view&id=1zBkxGE8es5eE1K6HM7Myt5wOsZXCs9bh)](https://drive.google.com/file/d/1zBkxGE8es5eE1K6HM7Myt5wOsZXCs9bh/view?usp=drive_link)
+[![Profile Image](https://drive.google.com/uc?export=view&id=1zBkxGE8es5eE1K6HM7Myt5wOsZXCs9bh)](https://drive.google.com/file/d/1zBkxGE8es5eE1K6HM7Myt5wOsZXCs9bh/view?usp=drive_link)
+
+---
+
+## 🚀 About Me
+
+> *Passionate developer on a continuous learning journey through the world of technology*
+
+🎯 **Current Focus**: Building innovative solutions and expanding technical expertise  
+💡 **Philosophy**: Learning never stops, growth never ends  
+🌱 **Status**: Always evolving, always improving  
+
+---
+
+## 📊 Training Stats
+
+| Metric | Value | Progress |
+|--------|-------|----------|
+| 🎓 **Years Completed** | 3/4 | ![75%](https://progress-bar.dev/75) |
+| 🧠 **Knowledge Base** | Expanding | ![65%](https://progress-bar.dev/65) |
+| 💪 **Skill Level** | Intermediate+ | ![70%](https://progress-bar.dev/70) |
+| 🔥 **Motivation** | Maximum | ![100%](https://progress-bar.dev/100) |
+
+---
+
+## 🎯 Learning Timeline
+
+### 📅 Year 1: Foundation Building
+```
+🔸 Status: ✅ Complete
+🔸 Focus: Getting started with fundamentals
+🔸 Progress: ████████████████████ 100%
+```
+
+### 📅 Year 2: Structure & Growth
+```
+🔸 Status: ✅ Complete  
+🔸 Focus: Getting organized and building momentum
+🔸 Progress: ████████████████████ 100%
+```
+
+### 📅 Year 3: Mastery & Refinement
+```
+🔸 Status: ✅ Complete
+🔸 Focus: Completing projects with confidence
+🔸 Progress: ████████████████████ 100%
+```
+
+### 📅 Year 4: Innovation & Excellence
+```
+🔸 Status: 🔄 In Progress
+🔸 Focus: Advanced concepts & real-world applications
+🔸 Progress: ░░░░░░░░░░░░░░░░░░░░ 0%
+```
+
+---
+
+## 💼 Current Summary
 
 ```python
-for year in range(4):
-    knowledge.train()
-
-```
-## 🧠 Training Performance Metrics
-
-Overall Training Progress: [████████████▒░░░░░░░░░░░] 50% Complete
-```
-
-📅  Year 1: Getting Started 
-```
-![image](https://github.com/user-attachments/assets/36d82932-7d5b-422d-8bcf-34476457709d)
-
-Progress: [█████████████████████] 100%
-```
-📅  Year 2: Getting shit together
-```
-![image](https://github.com/user-attachments/assets/7b3e11e5-6e21-43a8-afd8-724bfe6a8c73)
-
-Progress: [█████████████████████] 100%
+class Developer:
+    def __init__(self):
+        self.name = "Eshwanth"
+        self.status = "Learning & Growing"
+        self.years_experience = 3
+        self.passion = float('inf')
+    
+    def keep_learning(self):
+        while True:
+            self.knowledge += 1
+            self.skills.improve()
+            return "Never stop growing! 🌱"
 ```
 
-📅  Year 3: Completed peacefully 
-```
+---
 
-![Alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpqY2kyYnh4NmZlbncydjd4NTl2N2xnNmMwNDFrb203Z3Q2eTlsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif)
+## 🎯 Future Goals
 
-Progress: [█████████████████████] 100%
-```
+<div align="center">
 
- Year 4: To Be Continued... 
--  Status:  Loading... ⏳
--  Summary:  Unnum enna enna sei kathu irrukano
+### 🚀 Loading Next Chapter...
 
 ```
-Training Progress: [░░░░░░░░░░░░░░░░░░░░] 0% Complete
+▓▓▓▓▓▓▓░░░░░░░░░░░░ 35%
+```
+
+**🔮 What's Coming:**
+- 🏗️ Advanced project development
+- 🤝 Open source contributions  
+- 🌐 Full-stack mastery
+- 🎨 UI/UX excellence
+
+*"The best way to predict the future is to create it."*
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshwanthkartitr)
+
+</div>
