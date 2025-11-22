@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/eshwanthkartitr">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://port-v2-three.vercel.app/">
+  <a href="https://portfolio-ge.vercel.app//">
     <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
