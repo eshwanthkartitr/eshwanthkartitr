@@ -11,20 +11,8 @@
 
 
 <p align="center">
-  <b>Final-year student | AI/ML & Software Engineering | Technical Intern II @ Cisco </b>
+  <b>Final-year student | AI/ML & Software Engineering | Technical Intern I @ Cisco </b>
 </p>
-
-
-
-## 😐 2025 Goals
-
-> "Contribute to the tools I use and love before the year ends."
-
-- ✅ Hugging Face  
-- ⬜ PyTorch  
-- ⬜ Vite  
-- ⬜ React  
-- ⬜ TypeScript  
 
 
 <p align="center">
