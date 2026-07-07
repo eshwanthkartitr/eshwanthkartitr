@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <b>Final-year student | AI/ML & Software Engineering | Technical Intern I @ Cisco </b>
+  <b>Open Source Contributor | AI/ML & Software Engineering | Technical Intern I @ Cisco </b>
 </p>
 
 
