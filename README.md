@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <b>Open Source Contributor | AI/ML & Software Engineering | Technical Intern I @ Cisco </b>
+  <b>Open Source Contributor | AI/ML & Software Engineering | Incoming SWE @ Cisco </b>
 </p>
 
 
